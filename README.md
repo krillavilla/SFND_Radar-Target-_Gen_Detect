@@ -39,9 +39,7 @@ This MATLAB project simulates an FMCW radar system to detect a moving target by 
 ### 📦 Submission Contents
 - `Radar_Target_Generation_and_Detection.m`
 - `README.md` (this file)
+- `screenshots`
 
-The project can be submitted as a ZIP or GitHub repository.
 
 ---
-
-Developed and tested according to the Udacity Radar Target Detection rubric.
